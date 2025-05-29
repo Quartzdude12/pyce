@@ -1,0 +1,7 @@
+[project]
+name = "pyce"
+version = "0.1.0"
+description = "The smallest python dice (maybe)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []

@@ -1,4 +1,5 @@
 #made by Quartzdude12 aka CAA or Betrayed_
+import time
 import math
 import random
 import os
